@@ -7,21 +7,8 @@
 
 ---
 
-```
-        HAXIXEN.EXE
-  ┌─────────────────────┐
-  │   ▀▄   ▄▀   ▀▄▄▄   │
-  │  ▄█▀███▀█▄  ░░░░▀▄  │
-  │ ██  ◉ ◉  ██ ░░░░░█  │
-  │ ██  ╺━╸  ██  ░▄▄▄▀  │
-  │  ▀█▄▄▄▄▄█▀  ▄█▀░░░  │
-  │  ╱▌  ▲  ▐╲  ▀▄░░░░  │
-  │  ▌▌  █  ▐▐   ▀▄▄▄░  │
-  │ ▟██▄███▄██▙   ░░░░  │
-  │  ▀▀  ▀  ▀▀          │
-  │    鬼  DEMON  鬼     │
-  └─────────────────────┘
-```
+<!-- GIF lateral — fuente directa de tenor que permite hotlinking -->
+<img align="right" width="300" src="https://media1.tenor.com/m/tWDgVLNXKCoAAAAd/initial-d-ae86.gif" alt="demon drift gif"/>
 
 ```
  ██╗  ██╗ █████╗ ██╗  ██╗██╗██╗  ██╗███████╗███╗   ██╗
@@ -46,22 +33,13 @@ usuario:
 
 ---
 
-```
-── ⋆⋅☆⋅⋆ ─────────────────────────────────────── ⋆⋅☆⋅⋆ ──
-   鬼  YAKUZA CODE  ·  TOKYO DRIFT  ·  DARK SIDE OF THE STACK
-── ⋆⋅☆⋅⋆ ─────────────────────────────────────── ⋆⋅☆⋅⋆ ──
-```
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
+</div>
 
 ---
 
-## 〔鬼〕 About Me
-
-```
-      ⛩  A B O U T . E X E  ⛩
-  ╔══════════════════════════════╗
-  ║  ▐▌▐▌  ◈  HAXIXEN  ◈  ▐▌▐▌ ║
-  ╚══════════════════════════════╝
-```
+## 〔鬼〕 About Me &nbsp; <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 
 - 🔥 &nbsp; Desarrollador apasionado por el código y la noche
 - 🚗 &nbsp; Cultura drift: velocidad, precisión, control
@@ -71,24 +49,7 @@ usuario:
 
 ---
 
-## 〔龍〕 Tech Stack
-
-```
-   ___________________________
-  |  T E C H . S T A C K     |
-  |  ⚙  FULL THROTTLE  ⚙    |
-  |___________________________|
-       .------._______.
-      /  ___  |   _   |\
-     / /    |_|  (_)  | \
-    | |   ______      |  |
-    | |  /      \   __|  |
-    |  \/   RX7  \_/  |  |
-    |   \__________/  | /
-     \    |  |  |  | /
-      `---'--'--'--'-'
-    >> DRIFT UNDER NEON <<
-```
+## 〔龍〕 Tech Stack &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47" width="25px">
 
 <div align="center">
 
