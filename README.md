@@ -7,15 +7,16 @@
 
 ---
 
-<img align="right" width="300" src="https://i.pinimg.com/originals/be/f4/1a/bef41a7b4b07d6ad7dc0571c9b1561d2.gif" alt="demon drift gif"/>
+<!-- GIF lateral — fuente directa de tenor que permite hotlinking -->
+<img align="right" width="300" src="https://media1.tenor.com/m/tWDgVLNXKCoAAAAd/initial-d-ae86.gif" alt="demon drift gif"/>
 
 ```
-  █████╗ ██████╗ ██████╗ ██╗ █████╗ ███╗   ██╗
- ██╔══██╗██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║
- ███████║██║  ██║██████╔╝██║███████║██╔██╗ ██║
- ██╔══██║██║  ██║██╔══██╗██║██╔══██║██║╚██╗██║
- ██║  ██║██████╔╝██║  ██║██║██║  ██║██║ ╚████║
- ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+ ██╗  ██╗ █████╗ ██╗  ██╗██╗██╗  ██╗███████╗███╗   ██╗
+ ██║  ██║██╔══██╗╚██╗██╔╝██║╚██╗██╔╝██╔════╝████╗  ██║
+ ███████║███████║ ╚███╔╝ ██║ ╚███╔╝ █████╗  ██╔██╗ ██║
+ ██╔══██║██╔══██║ ██╔██╗ ██║ ██╔██╗ ██╔══╝  ██║╚██╗██║
+ ██║  ██║██║  ██║██╔╝ ██╗██║██╔╝ ██╗███████╗██║ ╚████║
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
 ```
 
 ```yaml
@@ -33,7 +34,7 @@ usuario:
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5f15f4ea/images/marquee.svg"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header"/>
 </div>
 
 ---
@@ -73,9 +74,9 @@ usuario:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrian-Val&show_icons=true&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&hide_border=false&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrian-Val&show_icons=true&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Val&layout=compact&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Val&layout=compact&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&cache_seconds=1800&langs_count=8"/>
 
 </div>
 
@@ -88,6 +89,11 @@ usuario:
 ---
 
 ## 〔蛇〕 Contribution Snake
+
+<!-- ⚠️ ESTA IMAGEN REQUIERE UNA GITHUB ACTION EN TU REPO                      -->
+<!-- Instrucciones: crea el archivo                                             -->
+<!-- .github/workflows/snake.yml  con el contenido del archivo snake.yml       -->
+<!-- que se incluye junto a este README. Luego la imagen aparecerá sola.       -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Adrian-Val/Adrian-Val/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
