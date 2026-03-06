@@ -73,16 +73,6 @@ usuario:
 ## 〔炎〕 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adrian-Val&show_icons=true&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrian-Val&layout=compact&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&cache_seconds=1800&langs_count=8"/>
-
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=Adrian-Val&theme=dark&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF4500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=888888" alt="streak"/>
 </div>
 
